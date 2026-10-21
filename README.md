@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0090-subsets-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
