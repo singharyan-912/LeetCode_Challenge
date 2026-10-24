@@ -78,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2409-count-days-spent-together) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
