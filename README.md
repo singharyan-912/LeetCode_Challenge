@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
 | [2409-count-days-spent-together](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2409-count-days-spent-together) |
