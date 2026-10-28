@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
