@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0090-subsets-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0860-lemonade-change) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0115-distinct-subsequences) |
+| [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0516-longest-palindromic-subsequence) |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
