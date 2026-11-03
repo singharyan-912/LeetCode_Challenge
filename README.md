@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0567-permutation-in-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
