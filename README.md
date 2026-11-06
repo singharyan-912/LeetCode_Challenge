@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1695-maximum-erasure-value) |
+| [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0567-permutation-in-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 | [1695-maximum-erasure-value](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1695-maximum-erasure-value) |
+| [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 ## Simulation
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
+| [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 ## Quicksort
 |  |
 | ------- |
