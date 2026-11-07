@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1695-maximum-erasure-value](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1732-find-the-highest-altitude) |
+| [1882-process-tasks-using-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1882-process-tasks-using-servers) |
 | [2574-left-and-right-sum-differences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
