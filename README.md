@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2409-count-days-spent-together](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
