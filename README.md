@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1695-maximum-erasure-value) |
 | [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1732-find-the-highest-altitude) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0567-permutation-in-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1695-maximum-erasure-value) |
 | [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 ## Simulation
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2409-count-days-spent-together](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
