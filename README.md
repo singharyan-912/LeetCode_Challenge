@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1695-maximum-erasure-value](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1695-maximum-erasure-value) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3665-twisted-mirror-path-count](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
