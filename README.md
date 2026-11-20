@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Increasing Subsequence
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0523-continuous-subarray-sum) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
