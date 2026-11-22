@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0115-distinct-subsequences) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0860-lemonade-change) |
 ## Sorting
