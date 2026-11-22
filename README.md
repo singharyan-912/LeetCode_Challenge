@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0516-longest-palindromic-subsequence) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
@@ -241,10 +244,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
