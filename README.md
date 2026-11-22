@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0523-continuous-subarray-sum) |
@@ -241,5 +243,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
