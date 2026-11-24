@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
@@ -155,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
