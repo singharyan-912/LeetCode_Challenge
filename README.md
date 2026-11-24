@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0516-longest-palindromic-subsequence) |
+| [0576-out-of-boundary-paths](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
