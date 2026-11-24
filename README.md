@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0115-distinct-subsequences) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
