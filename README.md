@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-distance-between-bus-stops](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1184-distance-between-bus-stops) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0639-decode-ways-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
