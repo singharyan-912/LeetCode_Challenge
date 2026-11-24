@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1184-distance-between-bus-stops) |
 | [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1143-longest-common-subsequence) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
