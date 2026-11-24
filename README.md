@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0115-distinct-subsequences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
