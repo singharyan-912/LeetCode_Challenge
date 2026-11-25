@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3665-twisted-mirror-path-count](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
