@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0486-predict-the-winner) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0055-jump-game) |
+| [0376-wiggle-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0860-lemonade-change) |
 ## Sorting
