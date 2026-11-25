@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2679-sum-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2679-sum-in-a-matrix) |
 | [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3033-modify-the-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3033-modify-the-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2679-sum-in-a-matrix) |
 | [3033-modify-the-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3033-modify-the-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3665-twisted-mirror-path-count) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0867-transpose-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2679-sum-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2679-sum-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2679-sum-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2679-sum-in-a-matrix) |
 | [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 ## Quicksort
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1882-process-tasks-using-servers) |
+| [2679-sum-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2679-sum-in-a-matrix) |
 ## Counting
 |  |
 | ------- |
