@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0174-dungeon-game) |
+| [0867-transpose-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0867-transpose-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
 |  |
