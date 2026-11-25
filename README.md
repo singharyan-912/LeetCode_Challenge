@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1732-find-the-highest-altitude) |
 | [1882-process-tasks-using-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1882-process-tasks-using-servers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [2747-count-zero-request-servers](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
@@ -221,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0509-fibonacci-number) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -292,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0062-unique-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
