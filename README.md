@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -254,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0404-sum-of-left-leaves) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Common Subsequence
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
