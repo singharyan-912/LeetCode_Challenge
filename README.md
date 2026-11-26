@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
