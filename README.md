@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0174-dungeon-game) |
 | [0238-product-of-array-except-self](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0376-wiggle-subsequence) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0174-dungeon-game) |
+| [0240-search-a-2d-matrix-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0933-number-of-recent-calls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
