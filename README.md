@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-distance-between-bus-stops](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1184-distance-between-bus-stops) |
 | [1248-count-number-of-nice-subarrays](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1572-matrix-diagonal-sum) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
