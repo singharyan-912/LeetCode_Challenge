@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0300-longest-increasing-subsequence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0931-minimum-falling-path-sum) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0841-keys-and-rooms) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/singharyan-912/LeetCode_Challenge/tree/master/1267-count-servers-that-communicate) |
